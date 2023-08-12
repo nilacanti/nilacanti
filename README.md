@@ -1,11 +1,12 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+github+XlordStore " />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+github+XlordStore" />
 </p>
 <b>
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://telegra.ph/file/0cd2f21fc503b748258c8.png" width="150" alt="Hayuk"/></a></p>
 
-![XlordStore  card name](https://cardivo.vercel.app/api?name=XlordVpn%20Store&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/XlordStore /simple-xray/main/funny1.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=XlordVpn&pattern=leaf&colorPattern=%23eaeaea)
+![Rerechan02 card name](https://cardivo.vercel.app/api?name=Rerechan%20Store&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny1.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=XlordVPN&pattern=leaf&colorPattern=%23eaeaea)
 </b>
+
 
 
 <br />
@@ -50,29 +51,29 @@ You can click the Preview link to take a look at your changes.
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+XlordVpn" />
 </p>
 <details>
-    <summary><b>CLICK HERE </b></summary><br/>
+      <summary><b>CLICK HERE </b></summary><br/>
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://telegra.ph/file/0cd2f21fc503b748258c8.png" width="150" alt="Hayuk"/></a></p>
 
-![XlordStore  card name](https://cardivo.vercel.app/api?name=Rerechan%20Store&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/XlordStore /simple-xray/main/funny1.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=XlordStore&pattern=leaf&colorPattern=%23eaeaea)
+![Rerechan02 card name](https://cardivo.vercel.app/api?name=Rerechan%20Store&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny1.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=Rerechan02&pattern=leaf&colorPattern=%23eaeaea)
 </b>
 
-![Metrics](https://metrics.lecoq.io/XlordStore ?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
-<p align='center'><img src="https://komarev.com/ghpvc/?username=XlordStore &label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="XlordStore " />
-<p align='center'><a href="https://api.daily.dev/get?r=XlordStore ">
+![Metrics](https://metrics.lecoq.io/nilacanti?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+<p align='center'><img src="https://komarev.com/ghpvc/?username=Rerechan02&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="XlordVpn" />
+<p align='center'><a href="https://api.daily.dev/get?r=Rerechan02">
 </p>
 
-![Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XlordStore &theme=monokai)
+![Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XlordVpn&theme=monokai)
 
 </p>
 </details>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XlordStore &label=VIEWS&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=XlordVpn&label=VIEWS&style=flat-square&color=blue" />
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=nilacanti )
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=XlordVpn)
 
 </details> 
 :page_with_curl: I'm currently learning:
@@ -87,16 +88,16 @@ You can click the Preview link to take a look at your changes.
 </p>
 <details>
 :star: Here are some projects that I'm working on:
-<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://github.com/XlordStore /scvpn2/raw/main/r.png?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
+<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://github.com/Rerechan02/scvpn2/raw/main/r.png?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
 
 ## Start
 <!--START_SECTION:waka-->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=XlordStore &theme=onedark" />
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=XlordStore &show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XlordStore &layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=Rerechan02&theme=onedark" />
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Rerechan02&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rerechan02&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=XlordStore">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rerechan02">
 </p>
 </details>
 <!--END_SECTION:waka-->
