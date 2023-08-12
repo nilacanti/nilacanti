@@ -61,18 +61,18 @@ You can click the Preview link to take a look at your changes.
 <p align='center'><a href="https://api.daily.dev/get?r=nilacanti">
 </p>
 
-![Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XlordVpn&theme=monokai)
+![Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilacanti&theme=monokai)
 
 </p>
 </details>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XlordVpn&label=VIEWS&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=nilacanti&label=VIEWS&style=flat-square&color=blue" />
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=XlordVpn)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=nilacanti)
 
 </details> 
 :page_with_curl: I'm currently learning:
