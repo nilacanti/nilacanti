@@ -83,7 +83,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <details>
 :star: Here are some projects that I'm working on:
-<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://github.com/Rerechan02/scvpn2/raw/main/r.png?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
+<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="[https://github.com/Rerechan02/scvpn2/raw/main/r.png](https://github.com/xlord27/gabut/raw/main/1686655025212.png)?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
 
 ## Start
 <!--START_SECTION:waka-->
