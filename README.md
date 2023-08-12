@@ -22,7 +22,7 @@
 </h2>
 <h2>Contact me: <br>
 <a href="https://xlordofc.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
-<a href="wa.me/62881036683241"> <img src="[![npm](https://img.shields.io/npm/v/waeasyapi.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/waeasyapi) </a>
+<a href="xlordstore@my.id"> <img src="[![npm](https://img.shields.io/npm/v/waeasyapi.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/waeasyapi) </a>
 </h2>
 <!---
 fisabiliyusri/fisabiliyusri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
