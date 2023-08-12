@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
       <summary><b>CLICK HERE </b></summary><br/>
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://telegra.ph/file/0cd2f21fc503b748258c8.png" width="150" alt="Hayuk"/></a></p>
 
-![Rerechan02 card name](https://cardivo.vercel.app/api?name=Rerechan%20Store&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny1.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=Rerechan02&pattern=leaf&colorPattern=%23eaeaea)
+![Xlrd card name](https://cardivo.vercel.app/api?name=XLordVpn&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://github.com/xlord27/gabut/raw/main/1686655025212.png?v=4&backgroundColor=%23ecf0f1&telegram=/&github=Xlord27&pattern=leaf&colorPattern=%23eaeaea)
 </b>
 
 ![Metrics](https://metrics.lecoq.io/nilacanti?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
