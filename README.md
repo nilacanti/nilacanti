@@ -14,7 +14,7 @@
 <img height=21 src="https://komarev.com/ghpvc/?username=XlordOfficial">
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=X+L+O+R+D+V+P+N" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=X+L+O+R+D+S+T+O+R+E" />
 </p>
 <div height='45' align="center">
 <h2>Donate me via trakteer: <br>
