@@ -37,8 +37,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://t.me/xlordeuyy" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://xlordofc.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/whatsapp-%2300C300?&style=for-the-badge&logo=&logoColor=white"/>
+  <a href="wa.me/62881036683241" " style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/whatsapp-%2300C300?&style=for-the-badge&logo=whatsapp &logoColor=white"/>
   </a>
   <a href="https://instagram.com/xlord.xyz" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
