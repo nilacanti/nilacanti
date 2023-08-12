@@ -57,8 +57,8 @@ You can click the Preview link to take a look at your changes.
 </b>
 
 ![Metrics](https://metrics.lecoq.io/nilacanti?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
-<p align='center'><img src="https://komarev.com/ghpvc/?username=Rerechan02&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="XlordVpn" />
-<p align='center'><a href="https://api.daily.dev/get?r=Rerechan02">
+<p align='center'><img src="https://komarev.com/ghpvc/?username=nilacanti&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="nilacanti" />
+<p align='center'><a href="https://api.daily.dev/get?r=nilacanti">
 </p>
 
 ![Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XlordVpn&theme=monokai)
