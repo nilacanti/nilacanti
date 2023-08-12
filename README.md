@@ -42,17 +42,11 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-
-
-
-```
 • HUBUNGI:
 - WhatsApp: [Klik Disini](https://wa.me/62881036683241)
 - Telegram: [Klik Disini](https://t.me/xlordeuyy)
 - My Store: [Klik Disini](https://xlordstore.my.id)
 
-### SLEBEW
 
 [![My Skills](https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,azure,docker,gcp)](https://skillicons.dev)
 
